@@ -1,12 +1,23 @@
 [{
-	"url": "https://raw.githubusercontent.com//RickAstleyFan69/Test_1/main/models/AEYairport.glb",
-	"location": [65.65323241310365, -18.076814259308403, 15],
-	"rotation": [90, 0, 0],
-	"scale": [1, 1, 1]
-},
-{
-	"url": "https://raw.githubusercontent.com//RickAstleyFan69/Test_1/main/models/AEYairport.glb",
-	"location": [65.65323241310365, -18.076814259308403, 15],
-	"rotation": [90, 0, 0],
-	"scale": [1, 1, 1]
-}]
+        "location": [65.65323241310365, -18.076814259308403, 15],
+        "url": "https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/AEYairport.glb",
+        "options": {
+            "shadows": 1
+        },
+        "htr": [45, 45, 0],
+        "rotatemodelonly": true,
+        "scale": 1,
+        "type": 100
+    },
+    {
+        "location": [65.65323241310365, -18.076814259308403, 15],
+        "url": "https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/AEYairport.glb",
+        "options": {
+            "shadows": 1
+        },
+        "htr": [45, 45, 0],
+        "rotatemodelonly": true,
+        "scale": 1,
+        "type": 100
+    }
+]
