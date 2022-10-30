@@ -5,4 +5,5 @@ geofs.api.setModelPositionOrientationAndScale(model, [-12.4086012, 130.8780314, 
 geofs.api.setModelPositionOrientationAndScale(model, [63.995032515, -22.6271945826,  35], [180, 0, 0], [25, 25, 25]); var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/AEYairport.glb");
 geofs.api.setModelPositionOrientationAndScale(model, [65.65323241310365, -18.076814259308403, 15], [90, 0, 0], [1, 1, 1]); var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/Project%20Name%20(3).glb");
 geofs.api.setModelPositionOrientationAndScale(model, [38.76355656202719, -9.1274252216974, 97], [90, 0, 0], [1, 1, 1]); var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/Lisbonbridge.glb");
-geofs.api.setModelPositionOrientationAndScale(model, [38.69377461731294, -9.177426033970294, 0], [0, 0, 0], [1, 1, 1]);
+geofs.api.setModelPositionOrientationAndScale(model, [38.69377461731294, -9.177426033970294, 0], [0, 0, 0], [1, 1, 1]); var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/BelemTower.glb");
+geofs.api.setModelPositionOrientationAndScale(model, [38.691668427171585, -9.215671960785764, 4], [180, 0, 0], [1, 1, 1]);
