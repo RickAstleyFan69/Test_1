@@ -20,7 +20,7 @@ geofs.api.setModelPositionOrientationAndScale(model, [65.65323241310365, -18.076
 
 //Lisbon Portela Airport
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/Project%20Name%20(3).glb");
-geofs.api.setModelPositionOrientationAndScale(model, [38.76355656202719, -9.1274252216974, 97], [90, 0, 0], [1, 1, 1]); 
+geofs.api.setModelPositionOrientationAndScale(model, [38.76355656202719, -9.1274252216974, 117], [90, 0, 0], [1, 1, 1]); 
 
 //25 De Abril Bridge
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/Lisbonbridge.glb");
