@@ -30,10 +30,14 @@ geofs.api.setModelPositionOrientationAndScale(model, [38.69377461731294, -9.1774
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/BelemTower.glb");
 geofs.api.setModelPositionOrientationAndScale(model, [38.691668427171585, -9.215671960785764, 4], [180, 0, 0], [1, 1, 1]);
 
-//Santa Justa Airport 
+//Santa Justa Elevator 
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/Lift.glb");
 geofs.api.setModelPositionOrientationAndScale(model, [38.71211795993264, -9.139532660205168, 20], [180, 0, 0], [0.1, 0.1, 0.1]); 
 
 //Cascais Municipal Aerodrome
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/Cascais.glb");
 geofs.api.setModelPositionOrientationAndScale(model, [38.723516762377365, -9.355335398217488, 90], [180, 0, 0], [1, 1, 1]);
+
+//El Hierro Airport
+var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/ElHierro.glb");
+geofs.api.setModelPositionOrientationAndScale(model, [27.814309308675302, -17.885299594392897, 20], [180, 0, 0], [1, 1, 1]);
