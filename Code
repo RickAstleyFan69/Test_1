@@ -41,3 +41,7 @@ geofs.api.setModelPositionOrientationAndScale(model, [38.723516762377365, -9.355
 //El Hierro Airport
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/ElHierro.glb");
 geofs.api.setModelPositionOrientationAndScale(model, [27.814309308675302, -17.885299594392897, 20], [180, 0, 0], [1, 1, 1]);
+
+//FUE Airport
+var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/FUEAirport.glb");
+geofs.api.setModelPositionOrientationAndScale(model, [28.45223985214065, -13.868611420611646, 23], [180, 0, 0], [1, 1, 1]);
