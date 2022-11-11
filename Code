@@ -45,3 +45,7 @@ geofs.api.setModelPositionOrientationAndScale(model, [27.814309308675302, -17.88
 //FUE Airport
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/FUEAirport.glb");
 geofs.api.setModelPositionOrientationAndScale(model, [28.45223985214065, -13.868611420611646, 23], [180, 0, 0], [1, 1, 1]);
+
+//Gran Canaria Airport
+var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/GranCanaria.glb");
+geofs.api.setModelPositionOrientationAndScale(model, [27.93841450355551, -15.388382167943101, 31], [180, 0, 0], [1, 1, 1]);
