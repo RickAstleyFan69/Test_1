@@ -57,3 +57,7 @@ geofs.api.setModelPositionOrientationAndScale(model, [28.621637749504423, -17.75
 //ACE Airport
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/ACEAirport.glb");
 geofs.api.setModelPositionOrientationAndScale(model, [28.950034357875218, -13.608023092778971, 10], [180, 0, 0], [1, 1, 1]);
+
+//TFN airport
+var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/TFNAirport.glb");
+geofs.api.setModelPositionOrientationAndScale(model, [28.48726885150543, -16.346404444674384, 627], [180, 0, 0], [1, 1, 1]);
