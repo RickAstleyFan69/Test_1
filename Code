@@ -73,3 +73,7 @@ geofs.api.setModelPositionOrientationAndScale(model, [10.60075464463992, -61.339
 //TAB Airport
 var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/TABAirport.glb");
 geofs.api.setModelPositionOrientationAndScale(model, [11.152355939269883, -60.839959855528406, 1], [90, 0, 0], [1, 1, 1]);
+
+//GND Airport
+var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/GNDAirport.glb");
+geofs.api.setModelPositionOrientationAndScale(model, [12.007190541029946, -61.785750746998325, 0], [90, 0, 0], [1, 1, 1]);
